@@ -1,0 +1,156 @@
+2016/05/25 10:56:10 [notice] 10808#0: using the "epoll" event method
+2016/05/25 10:56:10 [notice] 10808#0: using the "epoll" event method
+2016/05/25 10:56:10 [notice] 10808#0: nginx/1.8.1
+2016/05/25 10:56:10 [notice] 10808#0: nginx/1.8.1
+2016/05/25 10:56:10 [notice] 10808#0: built by gcc 4.1.2 20080704 (Red Hat 4.1.2-54)
+2016/05/25 10:56:10 [notice] 10808#0: built by gcc 4.1.2 20080704 (Red Hat 4.1.2-54)
+2016/05/25 10:56:10 [notice] 10808#0: OS: Linux 2.6.18-371.3.1.el5
+2016/05/25 10:56:10 [notice] 10808#0: OS: Linux 2.6.18-371.3.1.el5
+2016/05/25 10:56:10 [notice] 10808#0: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/05/25 10:56:10 [notice] 10808#0: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/05/25 10:56:10 [notice] 10809#0: start worker processes
+2016/05/25 10:56:10 [notice] 10809#0: start worker processes
+2016/05/25 10:56:10 [notice] 10809#0: start worker process 10821
+2016/05/25 10:56:10 [notice] 10809#0: start worker process 10821
+2016/05/25 10:56:29 [info] 10821#0: *1 client 127.0.0.1 closed keepalive connection
+2016/05/25 10:56:54 [notice] 10809#0: signal 15 (SIGTERM) received, exiting
+2016/05/25 10:56:54 [notice] 10809#0: signal 15 (SIGTERM) received, exiting
+2016/05/25 10:56:54 [notice] 10821#0: exiting
+2016/05/25 10:56:54 [notice] 10821#0: exiting
+2016/05/25 10:56:54 [notice] 10821#0: exit
+2016/05/25 10:56:54 [notice] 10809#0: signal 17 (SIGCHLD) received
+2016/05/25 10:56:54 [notice] 10809#0: signal 17 (SIGCHLD) received
+2016/05/25 10:56:54 [notice] 10809#0: worker process 10821 exited with code 0
+2016/05/25 10:56:54 [notice] 10809#0: worker process 10821 exited with code 0
+2016/05/25 10:56:54 [notice] 10809#0: exit
+2016/05/25 10:56:54 [notice] 10809#0: exit
+2016/05/25 10:57:21 [notice] 11353#0: using the "epoll" event method
+2016/05/25 10:57:21 [notice] 11353#0: using the "epoll" event method
+2016/05/25 10:57:21 [notice] 11353#0: nginx/1.8.1
+2016/05/25 10:57:21 [notice] 11353#0: nginx/1.8.1
+2016/05/25 10:57:21 [notice] 11353#0: built by gcc 4.1.2 20080704 (Red Hat 4.1.2-54)
+2016/05/25 10:57:21 [notice] 11353#0: built by gcc 4.1.2 20080704 (Red Hat 4.1.2-54)
+2016/05/25 10:57:21 [notice] 11353#0: OS: Linux 2.6.18-371.3.1.el5
+2016/05/25 10:57:21 [notice] 11353#0: OS: Linux 2.6.18-371.3.1.el5
+2016/05/25 10:57:21 [notice] 11353#0: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/05/25 10:57:21 [notice] 11353#0: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/05/25 10:57:21 [notice] 11354#0: start worker processes
+2016/05/25 10:57:21 [notice] 11354#0: start worker processes
+2016/05/25 10:57:21 [notice] 11354#0: start worker process 11366
+2016/05/25 10:57:21 [notice] 11354#0: start worker process 11366
+2016/05/25 10:57:32 [notice] 11354#0: signal 15 (SIGTERM) received, exiting
+2016/05/25 10:57:32 [notice] 11354#0: signal 15 (SIGTERM) received, exiting
+2016/05/25 10:57:32 [notice] 11366#0: exiting
+2016/05/25 10:57:32 [notice] 11366#0: exiting
+2016/05/25 10:57:32 [notice] 11366#0: exit
+2016/05/25 10:57:32 [notice] 11354#0: signal 17 (SIGCHLD) received
+2016/05/25 10:57:32 [notice] 11354#0: signal 17 (SIGCHLD) received
+2016/05/25 10:57:32 [notice] 11354#0: worker process 11366 exited with code 0
+2016/05/25 10:57:32 [notice] 11354#0: worker process 11366 exited with code 0
+2016/05/25 10:57:32 [notice] 11354#0: exit
+2016/05/25 10:57:32 [notice] 11354#0: exit
+2016/05/25 10:58:17 [notice] 12017#0: using the "epoll" event method
+2016/05/25 10:58:17 [notice] 12017#0: using the "epoll" event method
+2016/05/25 10:58:17 [notice] 12017#0: nginx/1.8.1
+2016/05/25 10:58:17 [notice] 12017#0: nginx/1.8.1
+2016/05/25 10:58:17 [notice] 12017#0: built by gcc 4.1.2 20080704 (Red Hat 4.1.2-54)
+2016/05/25 10:58:17 [notice] 12017#0: built by gcc 4.1.2 20080704 (Red Hat 4.1.2-54)
+2016/05/25 10:58:17 [notice] 12017#0: OS: Linux 2.6.18-371.3.1.el5
+2016/05/25 10:58:17 [notice] 12017#0: OS: Linux 2.6.18-371.3.1.el5
+2016/05/25 10:58:17 [notice] 12017#0: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/05/25 10:58:17 [notice] 12017#0: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/05/25 10:58:17 [notice] 12018#0: start worker processes
+2016/05/25 10:58:17 [notice] 12018#0: start worker processes
+2016/05/25 10:58:17 [notice] 12018#0: start worker process 12027
+2016/05/25 10:58:17 [notice] 12018#0: start worker process 12027
+2016/05/25 10:58:22 [notice] 12018#0: signal 15 (SIGTERM) received, exiting
+2016/05/25 10:58:22 [notice] 12018#0: signal 15 (SIGTERM) received, exiting
+2016/05/25 10:58:22 [notice] 12027#0: exiting
+2016/05/25 10:58:22 [notice] 12027#0: exiting
+2016/05/25 10:58:22 [notice] 12027#0: exit
+2016/05/25 10:58:22 [notice] 12018#0: signal 17 (SIGCHLD) received
+2016/05/25 10:58:22 [notice] 12018#0: signal 17 (SIGCHLD) received
+2016/05/25 10:58:22 [notice] 12018#0: worker process 12027 exited with code 0
+2016/05/25 10:58:22 [notice] 12018#0: worker process 12027 exited with code 0
+2016/05/25 10:58:22 [notice] 12018#0: exit
+2016/05/25 10:58:22 [notice] 12018#0: exit
+2016/05/25 11:02:49 [notice] 14528#0: using the "epoll" event method
+2016/05/25 11:02:49 [notice] 14528#0: using the "epoll" event method
+2016/05/25 11:02:49 [notice] 14528#0: nginx/1.8.1
+2016/05/25 11:02:49 [notice] 14528#0: nginx/1.8.1
+2016/05/25 11:02:49 [notice] 14528#0: built by gcc 4.1.2 20080704 (Red Hat 4.1.2-54)
+2016/05/25 11:02:49 [notice] 14528#0: built by gcc 4.1.2 20080704 (Red Hat 4.1.2-54)
+2016/05/25 11:02:49 [notice] 14528#0: OS: Linux 2.6.18-371.3.1.el5
+2016/05/25 11:02:49 [notice] 14528#0: OS: Linux 2.6.18-371.3.1.el5
+2016/05/25 11:02:49 [notice] 14528#0: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/05/25 11:02:49 [notice] 14528#0: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/05/25 11:02:49 [notice] 14529#0: start worker processes
+2016/05/25 11:02:49 [notice] 14529#0: start worker processes
+2016/05/25 11:02:49 [notice] 14529#0: start worker process 14541
+2016/05/25 11:02:49 [notice] 14529#0: start worker process 14541
+2016/05/25 11:02:57 [info] 14541#0: *1 client 127.0.0.1 closed keepalive connection
+2016/05/25 11:03:10 [info] 14541#0: *2 client 127.0.0.1 closed keepalive connection
+2016/05/25 11:03:25 [notice] 14529#0: signal 15 (SIGTERM) received, exiting
+2016/05/25 11:03:25 [notice] 14529#0: signal 15 (SIGTERM) received, exiting
+2016/05/25 11:03:25 [notice] 14541#0: exiting
+2016/05/25 11:03:25 [notice] 14541#0: exiting
+2016/05/25 11:03:25 [notice] 14541#0: exit
+2016/05/25 11:03:25 [notice] 14529#0: signal 17 (SIGCHLD) received
+2016/05/25 11:03:25 [notice] 14529#0: signal 17 (SIGCHLD) received
+2016/05/25 11:03:25 [notice] 14529#0: worker process 14541 exited with code 0
+2016/05/25 11:03:25 [notice] 14529#0: worker process 14541 exited with code 0
+2016/05/25 11:03:25 [notice] 14529#0: exit
+2016/05/25 11:03:25 [notice] 14529#0: exit
+2016/05/25 12:22:22 [notice] 24198#0: using the "epoll" event method
+2016/05/25 12:22:22 [notice] 24198#0: using the "epoll" event method
+2016/05/25 12:22:22 [notice] 24198#0: nginx/1.8.1
+2016/05/25 12:22:22 [notice] 24198#0: nginx/1.8.1
+2016/05/25 12:22:22 [notice] 24198#0: built by gcc 4.1.2 20080704 (Red Hat 4.1.2-54)
+2016/05/25 12:22:22 [notice] 24198#0: built by gcc 4.1.2 20080704 (Red Hat 4.1.2-54)
+2016/05/25 12:22:22 [notice] 24198#0: OS: Linux 2.6.18-371.3.1.el5
+2016/05/25 12:22:22 [notice] 24198#0: OS: Linux 2.6.18-371.3.1.el5
+2016/05/25 12:22:22 [notice] 24198#0: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/05/25 12:22:22 [notice] 24198#0: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/05/25 12:22:22 [notice] 24199#0: start worker processes
+2016/05/25 12:22:22 [notice] 24199#0: start worker processes
+2016/05/25 12:22:22 [notice] 24199#0: start worker process 24211
+2016/05/25 12:22:22 [notice] 24199#0: start worker process 24211
+2016/05/25 12:22:33 [info] 24211#0: *1 client 127.0.0.1 closed keepalive connection
+2016/05/25 12:22:39 [info] 24211#0: *2 client 127.0.0.1 closed keepalive connection
+2016/05/25 12:22:42 [notice] 24199#0: signal 15 (SIGTERM) received, exiting
+2016/05/25 12:22:42 [notice] 24199#0: signal 15 (SIGTERM) received, exiting
+2016/05/25 12:22:42 [notice] 24211#0: exiting
+2016/05/25 12:22:42 [notice] 24211#0: exiting
+2016/05/25 12:22:42 [notice] 24211#0: exit
+2016/05/25 12:22:42 [notice] 24199#0: signal 17 (SIGCHLD) received
+2016/05/25 12:22:42 [notice] 24199#0: signal 17 (SIGCHLD) received
+2016/05/25 12:22:42 [notice] 24199#0: worker process 24211 exited with code 0
+2016/05/25 12:22:42 [notice] 24199#0: worker process 24211 exited with code 0
+2016/05/25 12:22:42 [notice] 24199#0: exit
+2016/05/25 12:22:42 [notice] 24199#0: exit
+2016/05/25 14:48:30 [notice] 829#0: using the "epoll" event method
+2016/05/25 14:48:30 [notice] 829#0: using the "epoll" event method
+2016/05/25 14:48:30 [notice] 829#0: nginx/1.8.1
+2016/05/25 14:48:30 [notice] 829#0: nginx/1.8.1
+2016/05/25 14:48:30 [notice] 829#0: built by gcc 4.1.2 20080704 (Red Hat 4.1.2-54)
+2016/05/25 14:48:30 [notice] 829#0: built by gcc 4.1.2 20080704 (Red Hat 4.1.2-54)
+2016/05/25 14:48:30 [notice] 829#0: OS: Linux 2.6.18-371.3.1.el5
+2016/05/25 14:48:30 [notice] 829#0: OS: Linux 2.6.18-371.3.1.el5
+2016/05/25 14:48:30 [notice] 829#0: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/05/25 14:48:30 [notice] 829#0: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/05/25 14:48:30 [notice] 830#0: start worker processes
+2016/05/25 14:48:30 [notice] 830#0: start worker processes
+2016/05/25 14:48:30 [notice] 830#0: start worker process 836
+2016/05/25 14:48:30 [notice] 830#0: start worker process 836
+2016/05/25 14:48:42 [info] 836#0: *1 client 127.0.0.1 closed keepalive connection
+2016/05/25 14:48:52 [notice] 830#0: signal 15 (SIGTERM) received, exiting
+2016/05/25 14:48:52 [notice] 830#0: signal 15 (SIGTERM) received, exiting
+2016/05/25 14:48:52 [notice] 836#0: exiting
+2016/05/25 14:48:52 [notice] 836#0: exiting
+2016/05/25 14:48:52 [notice] 836#0: exit
+2016/05/25 14:48:52 [notice] 830#0: signal 17 (SIGCHLD) received
+2016/05/25 14:48:52 [notice] 830#0: signal 17 (SIGCHLD) received
+2016/05/25 14:48:52 [notice] 830#0: worker process 836 exited with code 0
+2016/05/25 14:48:52 [notice] 830#0: worker process 836 exited with code 0
+2016/05/25 14:48:52 [notice] 830#0: exit
+2016/05/25 14:48:52 [notice] 830#0: exit

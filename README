@@ -1,0 +1,3 @@
+for test nginx
+
+./configure --prefix=/home/MichaelChen/win_code/nginx-1.8.1/test --with-http_ssl_module -add-module=src/test
